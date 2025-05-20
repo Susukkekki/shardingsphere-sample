@@ -1,0 +1,2 @@
+CREATE DATABASE order_db1;
+CREATE DATABASE order_db2;
